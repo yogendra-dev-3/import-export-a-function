@@ -1,5 +1,3 @@
-function sum() {
-  return "This is Function";
-}
-
-module.exports = sum;
+module.exports = function () {
+  console.log("This is Function");
+};

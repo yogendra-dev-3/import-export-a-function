@@ -1,2 +1,2 @@
 const message = require("./exportFunction.js");
-message();
+console.log(message());

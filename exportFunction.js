@@ -1,3 +1,3 @@
 module.exports = function () {
-  console.log("This is Function");
+  return "This is Function";
 };
